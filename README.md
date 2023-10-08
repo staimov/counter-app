@@ -1,6 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,js,react,css&theme=light)](https://skillicons.dev)
 # counter-app
 
+![screenshot](/src/screenshot.jpg?raw=true)
+
 ## Usage
 
 ### Install dependencies
